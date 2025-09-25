@@ -13,15 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=pradeepsingh&style=flat-square&color=0A66C2" alt="Profile views" />
 </p>
 
----
-
 ## 👨‍💻 About Me  
 
 Hi! I’m **Pradeep Singh**, an **Embedded Software Developer** with **12+ years of experience** in design and development of real time embedded systems software for global automotive OEMs like **BMW, VW, Volvo and JLR**.
 My passion lies in building robust, scalable, and innovative embedded systems.
 I love learning new technologies and building solutions that solves real world problems.
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -48,29 +44,19 @@ I love learning new technologies and building solutions that solves real world p
 ![Ethernet](https://img.shields.io/badge/Ethernet-228B22?style=flat&logo=ethernet&logoColor=white) 
 ![SOME/IP](https://img.shields.io/badge/SOME--IP-FF8C00?style=flat)  
 
----
-
 ## 🏆 Career Highlights  
 - Built **Automated ECU Test Framework** tool that cut validation time by **50%**, saving **€60,000 annually**.  
 - Built **JTAG Selector Tool** (Python + Custom PCB) for remote debugging, saving **€7000 in hardware costs**.  
 - Built **Master Bootloader Emulator** in Python, accelerating validation by **60%**. 
 
----
-
 ## 📂 Featured Projects  
 
-
----
 
 ## 📊 GitHub Stats  
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepsingh&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsingh&layout=compact&theme=tokyonight)  
 
----
-
 ## 🌍 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pradeepsinghembeddedengineer/)  
 - ✉️ [Email](mailto:pradeepsingh7789@gmail.com)  
 - 📍 Munich, Germany  
-
----
