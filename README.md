@@ -27,14 +27,6 @@ I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of exp
 
 ---
 
-## 🏆 Career Highlights  
-- ⚡ Built a **Python-based Automated ECU Test Framework** that cut validation time by **50%**, saving **€60,000 annually**.  
-- 🛠️ Developed a **JTAG Selector Tool** (Python + hardware) for remote debugging, saving **€7000 in hardware costs**.  
-- 🔄 Created a **Master Bootloader Emulator** in Python, accelerating validation by **60%**.  
-- 👨‍💻 Led development & delivery of **BMW Body/Gateway ECUs**, ensuring compliance with **ASPICE & ISO 26262**.  
-
----
-
 ## 🛠️ Tech Stack  
 
 <p align="left">
@@ -62,6 +54,14 @@ I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of exp
 ![FlexRay](https://img.shields.io/badge/FlexRay-8B0000?style=flat) 
 ![Ethernet](https://img.shields.io/badge/Ethernet-228B22?style=flat&logo=ethernet&logoColor=white) 
 ![SOME/IP](https://img.shields.io/badge/SOME--IP-FF8C00?style=flat)  
+
+---
+
+## 🏆 Career Highlights  
+- ⚡ Built a **Python-based Automated ECU Test Framework** that cut validation time by **50%**, saving **€60,000 annually**.  
+- 🛠️ Developed a **JTAG Selector Tool** (Python + hardware) for remote debugging, saving **€7000 in hardware costs**.  
+- 🔄 Created a **Master Bootloader Emulator** in Python, accelerating validation by **60%**.  
+- 👨‍💻 Led development & delivery of **BMW Body/Gateway ECUs**, ensuring compliance with **ASPICE & ISO 26262**.  
 
 ---
 
