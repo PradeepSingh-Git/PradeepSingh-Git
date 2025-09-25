@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Pradeep%20Singh-Senior%20Embedded%20Software%20Engineer-4F8A8B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=4F8A8B&center=true&vCenter=true&lines=Pradeep+Singh;Senior+Embedded+Software+Engineer;AUTOSAR+%7C+C%2B%2B+%7C+RTOS+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=header&text=Pradeep%20Singh&fontSize=40&fontColor=ffffff" alt="profile banner"/>
+</p>
 
-
+---
 
 <!-- Banner or Profile Header -->
 <p align="center">
