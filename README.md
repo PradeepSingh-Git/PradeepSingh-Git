@@ -18,12 +18,12 @@
 ## 👨‍💻 About Me  
 I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of experience** in developing, integrating, and delivering **safety-critical embedded systems** for global OEMs like **BMW, VW, and JLR**.  
 
-- 🔧 Expertise in **Embedded C/C++**, **AUTOSAR (Classic & Adaptive)**, and **RTOS-based architectures**  
-- 📡 Hands-on with **CAN, LIN, Ethernet, SOME/IP** communication stacks  
-- 🛠️ Skilled in **Bootloaders, Diagnostics (UDS, OBDII, ISO14229), Safety-Critical Systems**  
-- 🧩 Experienced in **Model-Based Development (MATLAB/Simulink)** and **HIL Testing**  
-- 🐍 Proficient in **Python automation tools** and debugging with Lauterbach/Trace32  
-- 👨‍💼 Strong leadership in **managing 15+ engineers, Agile delivery & stakeholder collaboration**  
+- Expertise in **Embedded C/C++**, **AUTOSAR (Classic & Adaptive)**, and **RTOS-based architectures**  
+- Hands-on with **CAN, LIN, Ethernet, SOME/IP** communication stacks  
+- Skilled in **Bootloaders, Diagnostics (UDS, OBDII, ISO14229), Safety-Critical Systems**  
+- Experienced in **Model-Based Development (MATLAB/Simulink)** and **HIL Testing**  
+- Proficient in **Python automation tools** and debugging with Lauterbach/Trace32  
+- Strong leadership in **managing 15+ engineers, Agile delivery & stakeholder collaboration**  
 
 ---
 
@@ -58,10 +58,9 @@ I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of exp
 ---
 
 ## 🏆 Career Highlights  
-- ⚡ Built a **Python-based Automated ECU Test Framework** that cut validation time by **50%**, saving **€60,000 annually**.  
-- 🛠️ Developed a **JTAG Selector Tool** (Python + hardware) for remote debugging, saving **€7000 in hardware costs**.  
-- 🔄 Created a **Master Bootloader Emulator** in Python, accelerating validation by **60%**.  
-- 👨‍💻 Led development & delivery of **BMW Body/Gateway ECUs**, ensuring compliance with **ASPICE & ISO 26262**.  
+- Built a **Python-based Automated ECU Test Framework** that cut validation time by **50%**, saving **€60,000 annually**.  
+- Developed a **JTAG Selector Tool** (Python + hardware) for remote debugging, saving **€7000 in hardware costs**.  
+- Created a **Master Bootloader Emulator** in Python, accelerating validation by **60%**. 
 
 ---
 
