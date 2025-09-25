@@ -6,11 +6,11 @@
 
 ---
 
-## 👋 About Me  
-I’m **Pradeep Singh**, an **Automotive Embedded Software Engineer** with **12+ years of experience** in developing, integrating, and delivering **safety-critical embedded systems** for global OEMs like **BMW, VW, and JLR**.  
+## 👨‍💻 About Me  
+I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of experience** in developing, integrating, and delivering **safety-critical embedded systems** for global OEMs like **BMW, VW, and JLR**.  
 
 - 🔧 Expertise in **Embedded C/C++**, **AUTOSAR (Classic & Adaptive)**, and **RTOS-based architectures**  
-- 📡 Hands-on with **CAN, LIN, FlexRay, Ethernet, SOME/IP** communication stacks  
+- 📡 Hands-on with **CAN, LIN, Ethernet, SOME/IP** communication stacks  
 - 🛠️ Skilled in **Bootloaders, Diagnostics (UDS, OBDII, ISO14229), Safety-Critical Systems**  
 - 🧩 Experienced in **Model-Based Development (MATLAB/Simulink)** and **HIL Testing**  
 - 🐍 Proficient in **Python automation tools** and debugging with Lauterbach/Trace32  
@@ -26,7 +26,7 @@ I’m **Pradeep Singh**, an **Automotive Embedded Software Engineer** with **12+
 
 ---
 
-## 🧑‍💻 Tech Stack  
+## 🛠️ Tech Stack  
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
