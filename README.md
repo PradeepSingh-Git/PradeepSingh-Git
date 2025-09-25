@@ -16,8 +16,8 @@
 ---
 
 ## 👨‍💻 About Me  
-Hi! I’m **Pradeep Singh**, an **Embedded Software Developer** with **12+ years of experience** in design and development of real time embedded systems software for global automotive OEMs like **BMW, VW, Volvo and JLR**.  
 
+Hi! I’m **Pradeep Singh**, an **Embedded Software Developer** with **12+ years of experience** in design and development of real time embedded systems software for global automotive OEMs like **BMW, VW, Volvo and JLR**.
 My passion lies in building robust, scalable, and innovative embedded systems.
 I love learning new technologies and building solutions that solves real world problems.
 
