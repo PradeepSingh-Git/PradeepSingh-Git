@@ -16,14 +16,10 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of experience** in developing, integrating, and delivering **safety-critical embedded systems** for global OEMs like **BMW, VW, and JLR**.  
+Hi! I’m **Pradeep Singh**, an **Embedded Software Developer** with **12+ years of experience** in design and development of real time embedded systems software for global automotive OEMs like **BMW, VW, Volvo and JLR**.  
 
-- Expertise in **Embedded C/C++**, **AUTOSAR (Classic & Adaptive)**, and **RTOS-based architectures**  
-- Hands-on with **CAN, LIN, Ethernet, SOME/IP** communication stacks  
-- Skilled in **Bootloaders, Diagnostics (UDS, OBDII, ISO14229), Safety-Critical Systems**  
-- Experienced in **Model-Based Development (MATLAB/Simulink)** and **HIL Testing**  
-- Proficient in **Python automation tools** and debugging with Lauterbach/Trace32  
-- Strong leadership in **managing 15+ engineers, Agile delivery & stakeholder collaboration**  
+My passion lies in building robust, scalable, and innovative embedded systems.
+I love learning new technologies and building solutions that solves real world problems.
 
 ---
 
@@ -36,9 +32,7 @@ I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of exp
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![CAPL](https://img.shields.io/badge/CAPL-1E90FF?style=flat&logo=vector&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 **Frameworks & Tools:**  
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-FF6600?style=flat&logo=autosar&logoColor=white) 
@@ -51,24 +45,20 @@ I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of exp
 **Protocols:**  
 ![CAN](https://img.shields.io/badge/CAN-00599C?style=flat&logo=car&logoColor=white) 
 ![LIN](https://img.shields.io/badge/LIN-006400?style=flat) 
-![FlexRay](https://img.shields.io/badge/FlexRay-8B0000?style=flat) 
 ![Ethernet](https://img.shields.io/badge/Ethernet-228B22?style=flat&logo=ethernet&logoColor=white) 
 ![SOME/IP](https://img.shields.io/badge/SOME--IP-FF8C00?style=flat)  
 
 ---
 
 ## 🏆 Career Highlights  
-- Built a **Python-based Automated ECU Test Framework** that cut validation time by **50%**, saving **€60,000 annually**.  
-- Developed a **JTAG Selector Tool** (Python + hardware) for remote debugging, saving **€7000 in hardware costs**.  
-- Created a **Master Bootloader Emulator** in Python, accelerating validation by **60%**. 
+- Built **Automated ECU Test Framework** tool that cut validation time by **50%**, saving **€60,000 annually**.  
+- Built **JTAG Selector Tool** (Python + Custom PCB) for remote debugging, saving **€7000 in hardware costs**.  
+- Built **Master Bootloader Emulator** in Python, accelerating validation by **60%**. 
 
 ---
 
 ## 📂 Featured Projects  
-🔹 **Automated ECU Test Framework** – Python-driven Excel-based scripting tool for automated ECU validation.  
-🔹 **Bootloader Development & Integration** – JLR Hybrid EV Charger, VOLVO Headlight Control Module.  
-🔹 **BMW Body/Gateway ECU** – Led platform and body/comfort software delivery from development to SOP.  
-🔹 **Model-Based Control Algorithms** – Implemented BCM features using Simulink & Embedded C for VW & Hyundai.  
+
 
 ---
 
@@ -84,5 +74,3 @@ I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of exp
 - 📍 Munich, Germany  
 
 ---
-
-✨ *Passionate about building robust, scalable, and innovative embedded systems that power the future of mobility.*  
