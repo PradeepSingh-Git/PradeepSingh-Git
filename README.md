@@ -1,3 +1,20 @@
+<!-- Banner or Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8A8B,100:72C3DC&height=200&section=header&text=Pradeep%20Singh&fontSize=48&fontColor=ffffff" alt="profile banner"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeepsinghembeddedengineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-pradeepsinghembeddedengineer-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:pradeepsingh7789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pradeepsingh7789%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pradeepsingh&style=flat-square&color=0A66C2" alt="Profile views" />
+</p>
+
+---
+
 # 💡 Pradeep Singh – Senior Embedded Software Engineer  
 
 [![Email](https://img.shields.io/badge/Email-pradeepsingh7789%40gmail.com-red?style=flat&logo=gmail)](mailto:pradeepsingh7789@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepsinghembeddedengineer/) ![Profile Views](https://komarev.com/ghpvc/?username=pradeepsingh&label=Profile%20views&color=0e75b6&style=flat) 
