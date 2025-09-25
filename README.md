@@ -15,12 +15,6 @@
 
 ---
 
-# 💡 Pradeep Singh – Senior Embedded Software Engineer  
-
-[![Email](https://img.shields.io/badge/Email-pradeepsingh7789%40gmail.com-red?style=flat&logo=gmail)](mailto:pradeepsingh7789@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepsinghembeddedengineer/) ![Profile Views](https://komarev.com/ghpvc/?username=pradeepsingh&label=Profile%20views&color=0e75b6&style=flat) 
-
----
-
 ## 👨‍💻 About Me  
 I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of experience** in developing, integrating, and delivering **safety-critical embedded systems** for global OEMs like **BMW, VW, and JLR**.  
 
