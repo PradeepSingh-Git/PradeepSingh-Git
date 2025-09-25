@@ -30,7 +30,7 @@ I’m **Pradeep Singh**, an **Embedded Software Expert** with **12+ years of exp
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,arm,docker,raspberrypi,arduino,stm32,vscode,linux,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,bash,docker,raspberrypi,arduino,vscode,linux,git,jenkins" />
 </p>
 
 **Languages:**  
