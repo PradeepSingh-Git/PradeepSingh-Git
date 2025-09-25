@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Pradeep%20Singh-Senior%20Embedded%20Software%20Engineer-4F8A8B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+
+
+
 <!-- Banner or Profile Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8A8B,100:72C3DC&height=200&section=header&text=Pradeep%20Singh&fontSize=48&fontColor=ffffff" alt="profile banner"/>
